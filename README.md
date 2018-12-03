@@ -1,19 +1,22 @@
 #trash
 
-###A simple terminal app for interfacing with the trash
+A simple terminal app for interfacing with the trash
 
-<!---
-Options:
+Features:
 
--l, --list	List the contents of the trash	-e, --empty	Empty the trash.
+- Send file to the trash
 
--s, --set	Set the trash location(For if you trash location is something other than ~/.local/share/Trash/files).
+- View trash contents
 
--r, --reset	Reset the trash location back to ~/.local/share/Trash/files.
+- Empty trash
 
--d, --directory	Display the current location of the trash for this app.
+- Trash directory
+  
+  - Set trash directory for this app(for if its something other than ~/.local/share/Trash/files)
 
---help	Display this help text.
+  - View trash contents
+  
+  - View trash directory for this app
+  
+  - Reset trash directory to ~/.local/share/Trash/files
 
---version	Display the version informationtion\n"
---->

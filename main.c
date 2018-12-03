@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
                "A utility for sending files to the trash and emptying the trash from the terminal.\n"
                "Password may be needed to send write protected files to the trash\n\n"
                "Options:\n"
-               "\t-l, --list\tList the contents of the trash"
+               "\t-l, --list\tList the contents of the trash\n"
                "\t-e, --empty\tEmpty the trash.\n"
                "\t-s, --set\tSet the trash location(For if you trash location is something other than ~/.local/share/Trash/files).\n"
                "\t-r, --reset\tReset the trash location back to ~/.local/share/Trash/files.\n"

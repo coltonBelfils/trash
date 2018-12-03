@@ -1,4 +1,4 @@
-#trash
+trash
 
 A simple terminal app for interfacing with the trash
 
